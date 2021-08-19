@@ -16,8 +16,7 @@ int main()
     for(const auto& unit : DB.units)
     {
         out << unit.first;
-        out << "\n\nUnits: " << unit.second.base.units_count;
-        out << "\nPercentage: " << unit.second.percentage.units;
+        out << "\n\nUnits: " << unit.second.units_count;
         out << "\n~~~~~~~~~~~~~~~~~~~\n\n";
     }
     out.close();
