@@ -1,0 +1,13 @@
+The max value in dataset: 3675028
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+units_max: 613205
+patch_max: 743742
+matchup_max: 598425
+patch_by_unit_max: 132625
+matchup_by_unit_max: 180646
+matchup_by_patch_max: 152734
+ll_max1: 38947
+ll_max2: 38947
+ll_max3: 38947

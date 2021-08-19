@@ -1,0 +1,473 @@
+Games: 49436
+Units: 3658157
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Abomination
+
+Units: 25348
+Percentage: 0.692917
+~~~~~~~~~~~~~~~~~~~
+
+Acolyte
+
+Units: 187562
+Percentage: 5.12723
+~~~~~~~~~~~~~~~~~~~
+
+Archer
+
+Units: 165302
+Percentage: 4.51872
+~~~~~~~~~~~~~~~~~~~
+
+Assassin
+
+Units: 862
+Percentage: 0.0235638
+~~~~~~~~~~~~~~~~~~~
+
+Banshee
+
+Units: 26894
+Percentage: 0.735179
+~~~~~~~~~~~~~~~~~~~
+
+Centaur Outrunner
+
+Units: 1
+Percentage: 2.73362e-05
+~~~~~~~~~~~~~~~~~~~
+
+Chimaera
+
+Units: 3522
+Percentage: 0.096278
+~~~~~~~~~~~~~~~~~~~
+
+Crypt Fiend
+
+Units: 174413
+Percentage: 4.76778
+~~~~~~~~~~~~~~~~~~~
+
+Demolisher
+
+Units: 3798
+Percentage: 0.103823
+~~~~~~~~~~~~~~~~~~~
+
+Draenei Darkslayer
+
+Units: 7
+Percentage: 0.000191353
+~~~~~~~~~~~~~~~~~~~
+
+Draenei Disciple
+
+Units: 5
+Percentage: 0.000136681
+~~~~~~~~~~~~~~~~~~~
+
+Dragonhawk Rider
+
+Units: 8629
+Percentage: 0.235884
+~~~~~~~~~~~~~~~~~~~
+
+Druid of the Claw
+
+Units: 75192
+Percentage: 2.05546
+~~~~~~~~~~~~~~~~~~~
+
+Druid of the Talon
+
+Units: 40892
+Percentage: 1.11783
+~~~~~~~~~~~~~~~~~~~
+
+Dryad
+
+Units: 96120
+Percentage: 2.62755
+~~~~~~~~~~~~~~~~~~~
+
+Faerie Dragon
+
+Units: 16786
+Percentage: 0.458865
+~~~~~~~~~~~~~~~~~~~
+
+Fel Beast
+
+Units: 3
+Percentage: 8.20085e-05
+~~~~~~~~~~~~~~~~~~~
+
+Flying Machine
+
+Units: 35714
+Percentage: 0.976284
+~~~~~~~~~~~~~~~~~~~
+
+Footman
+
+Units: 192212
+Percentage: 5.25434
+~~~~~~~~~~~~~~~~~~~
+
+Forest Troll Berserker
+
+Units: 43507
+Percentage: 1.18931
+~~~~~~~~~~~~~~~~~~~
+
+Forest Troll High Priest
+
+Units: 15
+Percentage: 0.000410043
+~~~~~~~~~~~~~~~~~~~
+
+Forest Troll Shadow Priest
+
+Units: 37214
+Percentage: 1.01729
+~~~~~~~~~~~~~~~~~~~
+
+Frost Wyrm
+
+Units: 5571
+Percentage: 0.15229
+~~~~~~~~~~~~~~~~~~~
+
+Furbolg Shaman
+
+Units: 5
+Percentage: 0.000136681
+~~~~~~~~~~~~~~~~~~~
+
+Gargoyle
+
+Units: 28132
+Percentage: 0.769021
+~~~~~~~~~~~~~~~~~~~
+
+Ghoul
+
+Units: 181864
+Percentage: 4.97147
+~~~~~~~~~~~~~~~~~~~
+
+Giant Sea Turtle
+
+Units: 3
+Percentage: 8.20085e-05
+~~~~~~~~~~~~~~~~~~~
+
+Glaive Thrower
+
+Units: 8946
+Percentage: 0.244549
+~~~~~~~~~~~~~~~~~~~
+
+Gnoll Brute
+
+Units: 4
+Percentage: 0.000109345
+~~~~~~~~~~~~~~~~~~~
+
+Gnoll Overseer
+
+Units: 7
+Percentage: 0.000191353
+~~~~~~~~~~~~~~~~~~~
+
+Gnoll Warden
+
+Units: 86
+Percentage: 0.00235091
+~~~~~~~~~~~~~~~~~~~
+
+Goblin Sapper
+
+Units: 5507
+Percentage: 0.15054
+~~~~~~~~~~~~~~~~~~~
+
+Goblin Shredder
+
+Units: 15682
+Percentage: 0.428686
+~~~~~~~~~~~~~~~~~~~
+
+Goblin Zeppelin
+
+Units: 13827
+Percentage: 0.377977
+~~~~~~~~~~~~~~~~~~~
+
+Grunt
+
+Units: 130080
+Percentage: 3.55589
+~~~~~~~~~~~~~~~~~~~
+
+Gryphon Rider
+
+Units: 8454
+Percentage: 0.2311
+~~~~~~~~~~~~~~~~~~~
+
+Hippogryph
+
+Units: 23498
+Percentage: 0.642345
+~~~~~~~~~~~~~~~~~~~
+
+Huntress
+
+Units: 70328
+Percentage: 1.9225
+~~~~~~~~~~~~~~~~~~~
+
+Ice Troll Berserker
+
+Units: 7
+Percentage: 0.000191353
+~~~~~~~~~~~~~~~~~~~
+
+Ice Troll Trapper
+
+Units: 4
+Percentage: 0.000109345
+~~~~~~~~~~~~~~~~~~~
+
+Knight
+
+Units: 23135
+Percentage: 0.632422
+~~~~~~~~~~~~~~~~~~~
+
+Kobold
+
+Units: 10
+Percentage: 0.000273362
+~~~~~~~~~~~~~~~~~~~
+
+Kobold Geomancer
+
+Units: 85
+Percentage: 0.00232357
+~~~~~~~~~~~~~~~~~~~
+
+Kodo Beast
+
+Units: 30840
+Percentage: 0.843047
+~~~~~~~~~~~~~~~~~~~
+
+Magnataur Warrior
+
+Units: 72
+Percentage: 0.0019682
+~~~~~~~~~~~~~~~~~~~
+
+Meatwagon
+
+Units: 5479
+Percentage: 0.149775
+~~~~~~~~~~~~~~~~~~~
+
+Mortar Team
+
+Units: 13005
+Percentage: 0.355507
+~~~~~~~~~~~~~~~~~~~
+
+Mountain Giant
+
+Units: 11335
+Percentage: 0.309855
+~~~~~~~~~~~~~~~~~~~
+
+Mud Golem
+
+Units: 5402
+Percentage: 0.14767
+~~~~~~~~~~~~~~~~~~~
+
+Mur'gul Snarecaster
+
+Units: 1
+Percentage: 2.73362e-05
+~~~~~~~~~~~~~~~~~~~
+
+Murloc Huntsman
+
+Units: 430
+Percentage: 0.0117546
+~~~~~~~~~~~~~~~~~~~
+
+Necromancer
+
+Units: 4553
+Percentage: 0.124462
+~~~~~~~~~~~~~~~~~~~
+
+Nerubian Webspinner
+
+Units: 2
+Percentage: 5.46723e-05
+~~~~~~~~~~~~~~~~~~~
+
+Obsidian Statue
+
+Units: 99632
+Percentage: 2.72356
+~~~~~~~~~~~~~~~~~~~
+
+Ogre Magi
+
+Units: 57
+Percentage: 0.00155816
+~~~~~~~~~~~~~~~~~~~
+
+Ogre Mauler
+
+Units: 6830
+Percentage: 0.186706
+~~~~~~~~~~~~~~~~~~~
+
+Peasant
+
+Units: 411318
+Percentage: 11.2439
+~~~~~~~~~~~~~~~~~~~
+
+Peon
+
+Units: 244897
+Percentage: 6.69455
+~~~~~~~~~~~~~~~~~~~
+
+Polar Furbolg Shaman
+
+Units: 28
+Percentage: 0.000765413
+~~~~~~~~~~~~~~~~~~~
+
+Priest
+
+Units: 84579
+Percentage: 2.31207
+~~~~~~~~~~~~~~~~~~~
+
+Raider
+
+Units: 106117
+Percentage: 2.90083
+~~~~~~~~~~~~~~~~~~~
+
+Rifleman
+
+Units: 83558
+Percentage: 2.28416
+~~~~~~~~~~~~~~~~~~~
+
+Rogue
+
+Units: 9
+Percentage: 0.000246026
+~~~~~~~~~~~~~~~~~~~
+
+Satyr Shadowdancer
+
+Units: 2
+Percentage: 5.46723e-05
+~~~~~~~~~~~~~~~~~~~
+
+Shaman
+
+Units: 33736
+Percentage: 0.922213
+~~~~~~~~~~~~~~~~~~~
+
+Siege Engine
+
+Units: 7274
+Percentage: 0.198843
+~~~~~~~~~~~~~~~~~~~
+
+Sorceress
+
+Units: 35424
+Percentage: 0.968356
+~~~~~~~~~~~~~~~~~~~
+
+Spell Breaker
+
+Units: 56737
+Percentage: 1.55097
+~~~~~~~~~~~~~~~~~~~
+
+Spirit Walker
+
+Units: 52242
+Percentage: 1.4281
+~~~~~~~~~~~~~~~~~~~
+
+Tauren
+
+Units: 4679
+Percentage: 0.127906
+~~~~~~~~~~~~~~~~~~~
+
+Thunder Lizard
+
+Units: 3
+Percentage: 8.20085e-05
+~~~~~~~~~~~~~~~~~~~
+
+Transport Ship
+
+Units: 7
+Percentage: 0.000191353
+~~~~~~~~~~~~~~~~~~~
+
+Troll Batrider
+
+Units: 8088
+Percentage: 0.221095
+~~~~~~~~~~~~~~~~~~~
+
+Troll Headhunter/Berserker
+
+Units: 65350
+Percentage: 1.78642
+~~~~~~~~~~~~~~~~~~~
+
+Troll Witch Doctor
+
+Units: 3386
+Percentage: 0.0925603
+~~~~~~~~~~~~~~~~~~~
+
+Voidwalker
+
+Units: 6
+Percentage: 0.000164017
+~~~~~~~~~~~~~~~~~~~
+
+Wind Rider
+
+Units: 24968
+Percentage: 0.68253
+~~~~~~~~~~~~~~~~~~~
+
+Wisp
+
+Units: 608878
+Percentage: 16.6444
+~~~~~~~~~~~~~~~~~~~
+
