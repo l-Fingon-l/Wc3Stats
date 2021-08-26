@@ -1,6 +1,14 @@
 #pragma once
 
 #include <filesystem>
+#include <iostream>
+#include <fstream>
+#include <vector>
+#include <algorithm>
+#include <charconv>
+#include <unordered_set>
+#include <bit>
+#include <iterator>
 
 #include "database.h"
 

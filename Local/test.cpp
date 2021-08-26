@@ -1,8 +1,7 @@
 #include <sstream>      // std::ofstream
-#include <iostream>
 #include <chrono>
 
-#include "serialization/serialization.cpp"
+#include "serialization/serialization.h"
 
 using namespace std;
 using namespace std::chrono;
@@ -111,22 +110,30 @@ int main ()
                 cout << i++ << ")    " << matchup.units_count << "\t max_units = " << max_units << endl;
             } */ 
     
-    #define T time.push_back(high_resolution_clock::now());
-    auto t1 = high_resolution_clock::now();
-    vector<decltype(t1)> time = { t1 };
+    vector<steady_clock::time_point> time;
+    auto T = [&](){ time.push_back(high_resolution_clock::now()); };
 
+    T();
     database<map> DB{};
-    T
-    read_dataset("../data/units-by-build-1v1.json", DB); 
+    T();
+    string data_path = "D:/dev/Wc3Stats/Data";
+    //string data_path = "..";
+    if (!read_dataset(data_path + "/units-by-build-1v1.json", DB))
+    {
+        cout << "Dataset was not read!\n";
+        return 1;
+    }
     stringstream out;
-    T
+    T();
     serialise(out, DB);
-    T
-    ofstream datafile("../data/test2.data", ios_base::out);
+    T();
+    ofstream datafile("../../data/test3.data", ios_base::out);
+    cout << datafile.is_open() << endl;
     datafile << out.view();
     datafile.close();      
-    T
+    T();
 
     for (int i(0); i < time.size() - 1; i++)
-        std::cout << duration_cast<microseconds>(time[i + 1] - time[i]).count() / 1000.0 << " ms\n";
+        cout << duration_cast<microseconds>(time[i + 1] - time[i]).count() / 1000.0 << " ms\n";
+    cin.get();
 }

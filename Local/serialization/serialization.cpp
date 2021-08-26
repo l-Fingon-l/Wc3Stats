@@ -1,12 +1,3 @@
-#include <iostream>
-#include <fstream>
-#include <vector>
-#include <algorithm>
-#include <charconv>
-#include <unordered_set>
-#include <bit>
-#include <iterator>
-
 #include "serialization.h"
 
 // ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -41,7 +32,7 @@ bool read_dataset(std::filesystem::path path, database<std::map>& DB) // reading
         }
         else 
         {
-            entry.matchup = mu_shortened_pack[entry.matchup]; // matchup packing
+            entry.matchup = mu_shortened_pack.find(entry.matchup)->second; // matchup packing
             if (!process_entry(DB, entry))
             {
                 std::cout << "Entry at position " << pos << " was not processed correctly!\n";
@@ -506,7 +497,7 @@ struct write_map // our functor for writing down the maps of our DB
         else // bit field packing
         {
             result[index++] = (char)0x80; // opening bit is 1
-            for (auto res = result; index < R + 1; index++)
+            for (auto res = result; entry != map.end(); index++)
             {
                 if (!(index % 8)) res++;
                 if (entry->first + 1 == index)
